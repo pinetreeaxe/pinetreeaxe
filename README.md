@@ -19,7 +19,9 @@ Currently studying at the University of Minho, specializing in **Computer Graphi
 ## 🛠️ Technologies & Tools
 
 <!-- GitHub stats dynamically show your top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinetreeaxe&layout=compact&hide_border=true&langs_count=6)
+## 🛠️ Technologies & Tools
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinetreeaxe&layout=compact&hide_border=true&langs_count=6&hide=Roff)
 
 ---
 
@@ -36,7 +38,3 @@ Currently studying at the University of Minho, specializing in **Computer Graphi
 [![LinkedIn](https://img.shields.io/badge/-pinetreeaxe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pinetreeaxe/)](https://www.linkedin.com/in/pinetreeaxe/)
 
 ---
-
-<!--
-✨ If you want to add a fun fact, favorite quote, or hobbies, let me know!
--->
