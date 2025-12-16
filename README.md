@@ -17,10 +17,7 @@ Currently studying at the University of Minho, specializing in **Computer Graphi
 ---
 
 ## 🛠️ Technologies & Tools
-
 <!-- GitHub stats dynamically show your top languages -->
-## 🛠️ Technologies & Tools
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinetreeaxe&layout=compact&hide_border=true&langs_count=6&hide=Roff)
 
 ---
